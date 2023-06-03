@@ -1,10 +1,10 @@
-<h2>Hi, I'm <b>Varun Soni</b> 👋</h2>
+<h2>Hola, I'm <b>Varun Soni</b> 👋</h2>
 
 <p>Welcome to my profile, where creativity converges with computer science! As an imaginative and enthusiastic computer science student, I'm fueled by a deep passion for technology. In this digital realm of endless possibilities, I strive to utilize my skills to create positive impacts.
 </p>
 
 <h3>🌱 About Me</h3>
-
+<h6>Second-year CS Undergrad student</h6>
 <p>
 💻 Currently pursuing a <b>Bachelor of Technology in Computer Science</b> degree, I immerse myself in the captivating world of code.<br>
 🔍 Software development, algorithms, and problem-solving ignite my curiosity, constantly driving me to unravel innovative solutions.<br>
