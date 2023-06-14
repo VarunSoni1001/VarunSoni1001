@@ -49,3 +49,5 @@ I'm thrilled to engage with fellow tech enthusiasts, potential collaborators, an
 <p>
 I eagerly anticipate captivating conversations and the discovery of new opportunities together! 🚀
 </p>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=VarunSoni1001&style=flat&label=Profile+Views&color=blue"/>
