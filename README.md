@@ -1,7 +1,7 @@
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VarunSoni1001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=VarunSoni1001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunSoni1001&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Languages Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunSoni1001&theme=dracula&hide_border=true" alt="Streak"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=VarunSoni1001&theme=dracula&show_icons=true&hide_border=true&count_private=false" alt="Stats"  /> -->
 </div>
 
 <h2>Hola, I'm <b>Varun Soni</b> 👋</h2>
