@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VarunSoni1001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=VarunSoni1001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
 <h2>Hola, I'm <b>Varun Soni</b> 👋</h2>
 
 <p>Welcome to my profile, where creativity converges with computer science! As an imaginative and enthusiastic computer science student, I'm fueled by a deep passion for technology. In this digital realm of endless possibilities, I strive to utilize my skills to create positive impacts.
