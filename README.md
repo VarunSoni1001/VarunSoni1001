@@ -48,8 +48,8 @@
 I'm thrilled to engage with fellow tech enthusiasts, potential collaborators, and anyone who shares a fervor for computer science. Don't hesitate to reach out to me through the following platforms:
 </p>
 <p align="center">
+<a href="https://twitter.com/Varunsoni1001"><img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/varunsoni1001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/Varunsoni1001"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="https://github.com/VarunSoni1001"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p>
