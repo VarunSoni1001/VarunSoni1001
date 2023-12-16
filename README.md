@@ -4,7 +4,8 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=VarunSoni1001&theme=dracula&show_icons=true&hide_border=true&count_private=false" alt="Stats"  /> -->
 </div>
 
-<h2>Hola, I'm <b>Varun Soni</b> 👋</h2>
+<h2>Hi there!
+   👋<br>I'm <b>Varun Soni</b></h2>
 
 <p>Welcome to my profile, where creativity converges with computer science! As an imaginative and enthusiastic computer science student, I'm fueled by a deep passion for technology. In this digital realm of endless possibilities, I strive to utilize my skills to create positive impacts.
 </p>
@@ -27,13 +28,6 @@
 <b>Framework:</b> Next.js.<br>
 <b>Version Control:</b> GitHub.<br>
 <b>Problem Solving:</b> Data structures, algorithms.
-</p>
-
-<h3>💡 Projects</h3>
-
-<p>
-<b>📱 Parking Management Application:</b> Spearheaded a dynamic team of six to create an intuitive Android app using Android Studio, seamlessly streamlining parking operations.<br>
-<b>🤖 AI Chatbot Project:</b> Collaborated with a talented team to develop a captivating AI-powered chatbot, harnessing the power of Python and natural language processing techniques.
 </p>
 
 <h3>🌟 Achievements</h3>
