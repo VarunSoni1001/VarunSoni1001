@@ -11,7 +11,7 @@
 </p>
 
 <h3>🌱 About Me</h3>
-<h6>Third-year CS Undergrad student</h6>
+<h6>Final-year CS Undergrad student</h6>
 <p>
 💻 Currently pursuing a <b>Bachelor of Technology in Computer Science</b> degree, I immerse myself in the captivating world of code.<br>
 🔍 Software development, algorithms, and problem-solving ignite my curiosity, constantly driving me to unravel innovative solutions.<br>
