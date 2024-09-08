@@ -23,10 +23,10 @@
 <h3>💼 Skills</h3>
 
 <p>
-<b>Programming Languages:</b> Java, JavaScript, Python.<br>
-<b>Web Development:</b> HTML5, CSS3, JavaScript, React, Node.js, Next.js.<br>
-<b>Framework:</b> Next.js.<br>
-<b>Version Control:</b> GitHub.<br>
+<b>Programming Languages:</b>JavaScript, TypeScript, Java, Python.<br>
+<b>Web Development:</b> HTML, CSS, JavaScript, React, Node.js, Next.js.<br>
+<b>Framework:</b> Next.js, Expo - React Native.<br>
+<b>Version Control:</b>Git, GitHub.<br>
 <b>Problem Solving:</b> Data structures, algorithms.
 </p>
 
