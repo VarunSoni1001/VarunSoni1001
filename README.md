@@ -1,53 +1,93 @@
+<!-- Header -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunSoni1001&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Languages Graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunSoni1001&theme=dracula&hide_border=true" alt="Streak"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=VarunSoni1001&theme=dracula&show_icons=true&hide_border=true&count_private=false" alt="Stats"  /> -->
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=%20%20Hey+there!+I'm+Varun+Soni+👋;%20Frontend+Developer+%7C+Full+Stack+Engineer;%20Crafting+Beautiful+%26+Scalable+Web+Experiences;%20Backend+%7C+Node.js+%7C+Go%20" alt="Typing Headlines" />
+
+  <br/><br/>
+  <a href="https://github.com/VarunSoni1001">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunSoni1001&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/VarunSoni1001">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunSoni1001&layout=compact&theme=tokyonight&hide_border=true&background=00000000" alt="Top Languages" />
+  </a>
 </div>
 
-<h2>Hi there!
-   👋<br>I'm <b>Varun Soni</b></h2>
+---
 
-<p>Welcome to my profile, where creativity converges with computer science! As an imaginative and enthusiastic computer science student, I'm fueled by a deep passion for technology. In this digital realm of endless possibilities, I strive to utilize my skills to create positive impacts.
-</p>
+### 👨‍💻 About Me
 
-<h3>🌱 About Me</h3>
-<h6>Final-year CS Undergrad student</h6>
-<p>
-💻 Currently pursuing a <b>Bachelor of Technology in Computer Science</b> degree, I immerse myself in the captivating world of code.<br>
-🔍 Software development, algorithms, and problem-solving ignite my curiosity, constantly driving me to unravel innovative solutions.<br>
-🎨 Seamlessly blending art and technology, I embark on web and Android app development projects that push the boundaries of creativity.<br>
-📚 My thirst for knowledge is insatiable—I diligently keep pace with the latest trends and advancements in the ever-evolving tech industry.<br>
-🌍 As a fervent global citizen, I warmly embrace collaborations with individuals from diverse backgrounds.
-</p>
+🎓 **Computer Science Graduate** with a deep passion for building fast, modern, and intuitive user interfaces.  
+💡 I specialize in **frontend development**, while also crafting **robust backends** when needed.  
+⚡ My focus lies in **creating seamless user experiences** powered by scalable and resilient architectures.  
+🌱 Always exploring the latest tools in web performance, developer experience, and distributed systems.  
 
-<h3>💼 Skills</h3>
+---
 
-<p>
-<b>Programming Languages:</b>JavaScript, TypeScript, Java, Python.<br>
-<b>Web Development:</b> HTML, CSS, JavaScript, React, Node.js, Next.js.<br>
-<b>Framework:</b> Next.js, Expo - React Native.<br>
-<b>Version Control:</b>Git, GitHub.<br>
-<b>Problem Solving:</b> Data structures, algorithms.
-</p>
+### 🧠 Tech Stack
 
-<h3>🌟 Achievements</h3>
+<div align="center">
 
-<p>
-🏆 Honored with the esteemed <b>"Best Business/StartUp Project"</b> award at the university's Ideathon1.1 and Ideathon1.2, recognizing my innovative ideas and entrepreneurial spirit.
-</p>
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<h3>📫 Let's Connect</h3>
+#### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-<p>
-I'm thrilled to engage with fellow tech enthusiasts, potential collaborators, and anyone who shares a fervor for computer science. Don't hesitate to reach out to me through the following platforms:
-</p>
-<p align="center">
-<a href="https://twitter.com/Varunsoni1001"><img src="https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/varunsoni1001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/VarunSoni1001"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-<p>
-I eagerly anticipate captivating conversations and the discovery of new opportunities together! 🚀
-</p>
+#### 🧰 Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=VarunSoni1001&style=flat&label=Profile+Views&color=blue"/>
+#### 💬 Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+🏅 **Best Business/StartUp Project** – *Ideathon 1.1* & *Ideathon 1.2*  
+💬 Recognized for **technical innovation**, **creative execution**, and **entrepreneurial spirit**  
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+   <a href="https://varunsoni.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-C71585?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://x.com/Varunsoni1001">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/varunsoni1001">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/VarunSoni1001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VarunSoni1001&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
