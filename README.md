@@ -3,7 +3,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=%20%20Hey+there!+I'm+Varun+Soni+👋;%20Frontend+Developer+%7C+Full+Stack+Engineer;%20Crafting+Beautiful+%26+Scalable+Web+Experiences;%20Backend+%7C+Node.js+%7C+Go%20" alt="Typing Headlines" />
 
-  <br/><br/>
+  <br/>
   <a href="https://github.com/VarunSoni1001">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunSoni1001&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
   </a>
